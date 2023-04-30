@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,visualstudiocode,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,visualstudiocode,python
+# Created by https://www.toptal.com/developers/gitignore/api/python,macos,visualstudiocode,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,visualstudiocode,linux
 
 ### Linux ###
 *~
@@ -240,6 +240,4 @@ pyrightconfig.json
 .history
 .ionide
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,linux,visualstudiocode,python
-
-api_key.json
+*.json
